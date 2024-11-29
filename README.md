@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Ömer Şahingöz</h1>
-<h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
+<h3 align="center">Türkiye'den tutkulu bir oyun ve web geliştiricisi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedomershngz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedomershngz" /> </p>
 
