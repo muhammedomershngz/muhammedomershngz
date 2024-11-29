@@ -1,10 +1,3 @@
-<h1 align="center">Merhaba 👋, ben Ömer Şahingöz</h1>
-<h3 align="center">Türkiye'den tutkulu bir oyun ve web geliştiricisi</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedomershngz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedomershngz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedomershngz" alt="muhammedomershngz" /></a> </p>
-
 - 🔭 Şu anda [html proje](https://github.com/muhammedomershngz/FikirKutusu)
 
 - 🌱 Şu anda **c++** öğreniyorum
